@@ -1,0 +1,4 @@
+Extra Database Field : 
+User Table : 
+
+1) qualified,category_id,treatment_id
